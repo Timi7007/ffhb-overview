@@ -2,10 +2,10 @@
 
 var ffmapConfig = {
   // link to your main community site:
-  url:       "/",
+  url:       "http://bremen.freifunk.net/",
 
   // visible link in the navigation:
-  sitename:  "luebeck.freifunk.net",
+  sitename:  "bremen.freifunk.net",
 
   // initial gravity, friction, of the graph at pageload:
   gravity:   0.05,
