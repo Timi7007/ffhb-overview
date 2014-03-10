@@ -16,5 +16,5 @@ var ffmapConfig = {
   strength:  1.0,
 
   // path to the nodes.json
-  nodes_json: "nodes.json",
+  nodes_json: "http://downloads.bremen.freifunk.net/data/nodes.json",
 };
