@@ -32,15 +32,13 @@
   padding: 0.25em 0.5em;
 }
 
-/*
-#list tbody tr td:nth-child(2) {
+#list tbody tr td:first-child {
   background: lightpink;
 }
 
-#list tbody tr.online td:nth-child(2) {
+#list tbody tr.online td:first-child {
   background: lightgreen;
 }
-*/
 
 #list tfoot td {
   font-weight: bold;
