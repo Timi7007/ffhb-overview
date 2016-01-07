@@ -20,5 +20,5 @@ var ffmapConfig = {
   strength:  1.0,
 
   // path to the nodes.json
-  nodes_json: "http://downloads.bremen.freifunk.net/data/ffmap-d3.json",
+  nodes_json: "https://downloads.bremen.freifunk.net/data/ffmap-d3.json",
 };
