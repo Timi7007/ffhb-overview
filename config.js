@@ -2,7 +2,7 @@
 
 var ffmapConfig = {
   // link to your main community site:
-  url:       "http://bremen.freifunk.net/",
+  url:       "//bremen.freifunk.net/",
 
   // visible link in the navigation:
   sitename:  "bremen.freifunk.net",
