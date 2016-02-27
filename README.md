@@ -48,7 +48,7 @@ The mesh-connections between nodes are represented by lines in red for bad quali
 A table with all nodes in the network.
 
 Sortable by clicking on the titles in the header-row.
-Can be searched using CRTL+F ;)
+Can be searched using CTRL+F ;)
 
 ### node.html
 Shows usage graphs of a single node.
