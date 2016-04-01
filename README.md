@@ -59,6 +59,6 @@ Accessible from *list.html*
 Shows usage graphs of the whole network.
 
 ### vpn-status.html
-Embeds https://status.ffhb.tk/ in an iframe.
+Embeds https://status.ffhb.mortzu.de/ in an iframe.
 
 The code is available at https://github.com/FreifunkBremen/gatemon-html
